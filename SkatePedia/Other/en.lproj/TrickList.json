@@ -1,0 +1,166 @@
+[
+    {
+        "id": "1-0",
+        "name": "Basic",
+        "items": [
+            {
+                "id": "1-1",
+                "name": "Ollie",
+                "description": "First trick to learn. Foundation for everything else. Done by popping tail and sliding your front foot up to level out the board.",
+                "tricksToLearnFirst": "Comfortable riding around."
+            },
+            {
+                "id": "1-2",
+                "name": "Backside Shuvit",
+                "description": "Scoop back foot back to rotate the board 180 degrees.",
+                "tricksToLearnFirst": "Ollie"
+            },{
+                "id": "1-3",
+                "name": "Frontside Shuvit",
+                "description": "Scoop back foot forward to rotate the board 180 degrees",
+                "tricksToLearnFirst": "Ollie"
+            },{
+                "id": "1-4",
+                "name": "Backside 180",
+                "description": "Scoop back foot back to rotate the board 180 degrees while turning your body in the same direction.",
+                "tricksToLearnFirst": "Ollie, Backside Shuvit"
+            },{
+                "id": "1-5",
+                "name": "Frontside 180",
+                "description": "Scoop back foot forward to rotate the board 180 degrees while turning your body in the same direction.",
+                "tricksToLearnFirst": "Ollie, Frontside Shuvit"
+            },{
+                "id": "1-6",
+                "name": "Kickflip",
+                "description": "Pop the same as you would an ollie but slide your front foot up angled and flick your toe off the heel side of the nose",
+                "tricksToLearnFirst": "Ollie"
+            },{
+                "id": "1-7",
+                "name": "Heelflip",
+                "description": "Pop the same as you would an ollie but slide your front foot up angled and flick your heel off the toe side of the nose",
+                "tricksToLearnFirst": "Ollie"
+            }
+        ]
+    },
+    {
+        "id": "2-0",
+        "name": "Intermediate",
+        "items": [
+            {
+                "id": "2-1",
+                "name": "Varial Kickflip",
+                "description": "Combination of a kickflip and backside shuvit. Scoop the tail similar to a backside shuvit and flick off the heel side of the board as it scoops.",
+                "tricksToLearnFirst": "Kickflip, Backside Shuvit"
+            },
+            {
+                "id": "2-2",
+                "name": "Hardflip",
+                "description": "Combination of a frontside shuvit and kickflip. However, the front shuvit is usual more popped than scooped. Pop an ollie with a slight frontsite scoop. Flick up and straight back in the direction your heel is pointing, leaving enough room for the board to flip inbetween your legs.",
+                "tricksToLearnFirst": "Kickflip, Frontside Shuvit"
+            },
+            {
+                "id": "2-3",
+                "name": "Inward Heelflip",
+                "description": "Combination of a backside shuvit and heelflip. However, the back shuvit is usually more popped than scooped. Pop an ollie with a slight backside scoop. Flick up and straight forward in the direction your toes are pointing, leaving enough room for the board to flip inbetween your legs.",
+                "tricksToLearnFirst": "Heelflip, Backside Shuvit"
+            },
+            {
+                "id": "2-4",
+                "name": "Varial Heelflip",
+                "description": "Combination of a heelflip and frontside shuvit. Scoop the tail similar to a frontside shuvit and flick of the toe side of the board as it scoops.",
+                "tricksToLearnFirst": "Heelflip, Fronside Shuvit"
+            },
+            {
+                "id": "2-5",
+                "name": "Backside Flip",
+                "description": "Combination of a kickflip and backside 180. Pop and rotate your arms and body similar to a backside 180. While your body turns, flick off the nose similar to a kickflip and varial kickflip.",
+                "tricksToLearnFirst": "Kickflip, Backside 180"
+            },
+            {
+                "id": "2-6",
+                "name": "Frontside Flip",
+                "description": "Combination of a kickflip and frontside 180. Pop and rotate your arms and body similar to a frontside 180. While your body turns, flick off the nose similar to a kickflip and hardflip.",
+                "tricksToLearnFirst": "Kickflip, Frontside 180"
+            },
+            {
+                "id": "2-7",
+                "name": "Backside Heelflip",
+                "description": "Combination of a heelflip and backside 180. Pop and rotate your arms and body similar to a backside 180. While your body turns, flick off the nose similar to a heelflip and inward heelflip.",
+                "tricksToLearnFirst": "Heelflip, Backside 180"
+            },
+            {
+                "id": "2-8",
+                "name": "Frontside Heelflip",
+                "description": "Combination of a heelflip and frontside 180. Pop and rotate your arms and body similar to a frontside 180. While your body turns, flick off the nose similar to a heelflip and varial heelflip.",
+                "tricksToLearnFirst": "Heelflip, Frontside 180"
+            }
+        ]
+    },
+    {
+        "id": "3-0",
+        "name": "Advanced",
+        "items": [
+            {
+                "id": "3-01",
+                "name": "Backside 360",
+                "description": "Pop and scoop hard similar to the scoop of a backside 360 shuvit. Rotate your arms and body quicker than you would for a backside 180. Keep shoulders level to stay balanced after spinning.",
+                "tricksToLearnFirst": "Backside 180, Backside 360 Shuvit"
+            },
+            {
+                "id": "3-02",
+                "name": "Frontside 360",
+                "description": "Pop and scoop hard similar to the scoop of a frontside 360 shuvit. Rotate your arms and body quicker than you would for a frontside 180. Keep shoulders level to stay balanced after spinning.",
+                "tricksToLearnFirst": "Frontside 180, Frontside 360 Shuvit"
+            },
+            {
+                "id": "3-03",
+                "name": "Backside 360 Shuvit",
+                "description": "Pop and scoop similar to a backside shuvit but with more power. If necessary, use either your front or backfoot to keep the board from flipping.",
+                "tricksToLearnFirst": "Backside Shuvit"
+            },
+            {
+                "id": "3-04",
+                "name": "Frontside 360 Shuvit",
+                "description": "Pop and scoop similar to a frontside shuvit but with more power. If necessary, use your front foot to keep the board from flipping.",
+                "tricksToLearnFirst": "Frontside Shuvit"
+            },
+            {
+                "id": "3-05",
+                "name": "Backside Bigspin",
+                "description": "Combination of a backside 180 and backside 360 shuvit. Rotate your arms and body similar to a backside 180 while popping and scooping similar to a backside 360 shuvit.",
+                "tricksToLearnFirst": "Backside 180, Backside 360 Shuvit"
+            },
+            {
+                "id": "3-06",
+                "name": "Frontside Bigspin",
+                "description": "Combination of a frontside 180 and frontside 360 shuvit. Rotate your arms and body similar to a frontside 180 while popping and scooping similar to a frontside 360 shuvit.",
+                "tricksToLearnFirst": "Frontside 180, Frontside 360 Shuvit"
+            },
+            {
+                "id": "3-07",
+                "name": "Tre Flip",
+                "description": "Combination of a backside 360 shuvit and kickflip. Pop and scoop similar to a backside 360 shuvit. Then flick off the heel side of the board as it spins like you would for a varial kickflip.",
+                "tricksToLearnFirst": "Varial Kickflip, Backside 360 Shuvit"
+            },
+            {
+                "id": "3-08",
+                "name": "Lazer Flip",
+                "description": "Combination of a frontside 360 shuvit and heelflip. Pop and scoop similar to a frontside 360 shuvit. Then flick off the toe side of the board as it spins like you would for a varial heelflip",
+                "tricksToLearnFirst": "Varial Heelflip, Frontside 360 Shuvit"
+            },
+            {
+                "id": "3-09",
+                "name": "Big Flip",
+                "description": "Combination of a tre flip and backside 180. Rotate your arms and body similar to a backside bigspin. Then flick off the heel side of the board similar to a tre flip.",
+                "tricksToLearnFirst": "Backside Bigspin, Tre Flip"
+            },
+            {
+                "id": "3-10",
+                "name": "Big Heel",
+                "description": "Combination of a lazer flip and frontside 180. Rotate your arms and body similar to a frontside bigspin. Then flick off the toe side of the board similar to a lazer flip.",
+                "tricksToLearnFirst": "Frontside Bigspin, Lazer Flip"
+            }
+        ]
+    }
+]
+
